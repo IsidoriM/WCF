@@ -1,0 +1,6 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\3-CreateWcf\HelloService\bin\Debug\HelloService.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\3-CreateWcf\HelloService\bin\Debug\HelloService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\3-CreateWcf\HelloService\bin\Debug\HelloService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\3-CreateWcf\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\3-CreateWcf\HelloService\obj\Debug\HelloService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\3-CreateWcf\HelloService\obj\Debug\HelloService.pdb
