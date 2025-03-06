@@ -1,0 +1,6 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebClient\bin\WebClient.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebClient\bin\WebClient.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebClient\bin\WebClient.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebClient\obj\Debug\WebClient.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebClient\obj\Debug\WebClient.pdb

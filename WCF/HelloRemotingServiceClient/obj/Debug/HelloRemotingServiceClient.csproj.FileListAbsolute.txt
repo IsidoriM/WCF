@@ -1,0 +1,7 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloRemotingServiceClient\bin\HelloRemotingServiceClient.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloRemotingServiceClient\bin\HelloRemotingServiceClient.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloRemotingServiceClient\bin\HelloRemotingServiceClient.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.pdb

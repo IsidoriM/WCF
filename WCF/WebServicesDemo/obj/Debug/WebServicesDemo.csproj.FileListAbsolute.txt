@@ -1,0 +1,6 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebServicesDemo\bin\WebServicesDemo.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebServicesDemo\bin\WebServicesDemo.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebServicesDemo\bin\WebServicesDemo.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebServicesDemo\obj\Debug\WebServicesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WebServicesDemo\obj\Debug\WebServicesDemo.pdb

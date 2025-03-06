@@ -1,0 +1,11 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\bin\Debug\HelloRemotingService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\bin\Debug\IHelloRemotingService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\bin\Debug\HelloRemotingService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\bin\Debug\IHelloRemotingService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\obj\Debug\RemotingServiceHost.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\obj\Debug\RemotingServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\obj\Debug\RemotingServiceHost.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\obj\Debug\RemotingServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\RemotingServiceHost\obj\Debug\RemotingServiceHost.pdb

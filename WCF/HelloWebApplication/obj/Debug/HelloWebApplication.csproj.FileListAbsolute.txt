@@ -1,0 +1,7 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloWebApplication\bin\HelloWebApplication.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloWebApplication\bin\HelloWebApplication.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloWebApplication\bin\HelloWebApplication.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloWebApplication\obj\Debug\HelloWebApplication.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloWebApplication\obj\Debug\HelloWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloWebApplication\obj\Debug\HelloWebApplication.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\HelloWebApplication\obj\Debug\HelloWebApplication.pdb

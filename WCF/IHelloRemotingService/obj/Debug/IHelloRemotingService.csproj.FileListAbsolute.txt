@@ -1,0 +1,5 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\IHelloRemotingService\obj\Debug\IHelloRemotingService.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb

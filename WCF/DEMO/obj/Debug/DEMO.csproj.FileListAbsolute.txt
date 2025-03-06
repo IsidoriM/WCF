@@ -1,0 +1,6 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\DEMO\bin\DEMO.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\DEMO\bin\DEMO.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\DEMO\bin\DEMO.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\DEMO\obj\Debug\DEMO.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\DEMO\obj\Debug\DEMO.pdb
