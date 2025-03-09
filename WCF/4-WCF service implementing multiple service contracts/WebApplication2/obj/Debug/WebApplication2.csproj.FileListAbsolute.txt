@@ -1,0 +1,7 @@
+C:\Users\Massimiliano Isidori\Source\Repos\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Massimiliano Isidori\Source\Repos\WebApplication2\bin\WebApplication2.dll
+C:\Users\Massimiliano Isidori\Source\Repos\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Massimiliano Isidori\Source\Repos\WebApplication2\obj\Debug\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Source\Repos\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Source\Repos\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Massimiliano Isidori\Source\Repos\WebApplication2\obj\Debug\WebApplication2.pdb

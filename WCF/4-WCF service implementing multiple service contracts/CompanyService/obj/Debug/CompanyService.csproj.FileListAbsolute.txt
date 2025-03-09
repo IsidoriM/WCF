@@ -1,0 +1,7 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyService\bin\Debug\CompanyService.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyService\bin\Debug\CompanyService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyService\bin\Debug\CompanyService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyService\obj\Debug\CompanyService.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyService\obj\Debug\CompanyService.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyService\obj\Debug\CompanyService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyService\obj\Debug\CompanyService.pdb

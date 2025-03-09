@@ -1,0 +1,11 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\bin\Debug\CompanyServiceHost.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\bin\Debug\CompanyService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\bin\Debug\CompanyService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\bin\Debug\CompanyService.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\obj\Debug\CompanyServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\4-WCF service implementing multiple service contracts\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb
