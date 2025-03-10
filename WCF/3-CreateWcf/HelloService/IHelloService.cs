@@ -8,10 +8,10 @@ using System.Text;
 namespace HelloService
 {
     // NOTA: è possibile utilizzare il comando "Rinomina" del menu "Refactoring" per modificare il nome di interfaccia "IHelloService" nel codice e nel file di configurazione contemporaneamente.
-    [ServiceContract]
-    public interface IHelloService
+    [ServiceContract(Name = "IHelloService")]
+    public interface IHelloServiceChanged
     {
-        [OperationContract]
-        string GetMessage(string name);
+        [OperationContract(Name = "GetMessage")]
+        string GetMessageChanged(string name);
     }
 }
