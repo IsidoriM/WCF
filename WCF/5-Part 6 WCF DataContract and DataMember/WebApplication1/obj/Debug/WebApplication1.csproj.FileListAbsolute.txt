@@ -1,0 +1,7 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\WebApplication1\bin\WebApplication1.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\WebApplication1\obj\Debug\WebApplication1.pdb
