@@ -1,0 +1,14 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeService\bin\Debug\EmployeeService.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeService\obj\Debug\EmployeeService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeService\bin\Debug\EmployeeService.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeService\obj\Debug\EmployeeService.pdb
