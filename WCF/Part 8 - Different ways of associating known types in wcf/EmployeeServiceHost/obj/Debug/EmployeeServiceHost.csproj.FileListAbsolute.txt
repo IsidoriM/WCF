@@ -1,0 +1,33 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\bin\Debug\EmployeeService.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\5-Part 6 WCF DataContract and DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\bin\Debug\EmployeeService.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Repo_wcf\WCF\7-KnownType attribute in WCF\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\bin\Debug\EmployeeService.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\WCF\WCF\WCF\Part 8 - Different ways of associating known types in wcf\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
